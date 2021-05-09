@@ -13,7 +13,7 @@ Follow directions within the Max MSP patch.
 Please see more in-depth instruction on operating patch online at http://www.KelleySheehan.com/patch
 
 -------------------------------------------------------------------------------
-This is the most recent version of the patch as of 5/5/2021.
+This is the most recent version of the patch as of 5/9/2021.
 
 Please email KelleyLSheehan@gmail.com, if any trouble or questions.
 
