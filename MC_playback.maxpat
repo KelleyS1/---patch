@@ -210,7 +210,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 445.0, 342.0, 143.0, 22.0 ],
-					"text" : "set buf2.1, 0"
+					"text" : "set buf2.2, 0"
 				}
 
 			}
@@ -677,9 +677,9 @@
 , 			{
 				"name" : "Teaching",
 				"default" : 				{
+					"fontface" : [ 0 ],
 					"fontsize" : [ 18.0 ],
-					"elementcolor" : [ 0.375889, 0.380647, 0.363084, 1.0 ],
-					"fontface" : [ 0 ]
+					"elementcolor" : [ 0.375889, 0.380647, 0.363084, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -697,11 +697,8 @@
 , 			{
 				"name" : "hans002",
 				"default" : 				{
-					"fontsize" : [ 11.0 ],
-					"accentcolor" : [ 0.741176, 0.356863, 0.047059, 1.0 ],
-					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"textcolor_inverse" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"bgcolor" : [ 0.664464, 0.639616, 0.388173, 1.0 ],
+					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
 						"color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
@@ -711,7 +708,10 @@
 						"proportion" : 0.39,
 						"autogradient" : 0
 					}
-
+,
+					"bgcolor" : [ 0.664464, 0.639616, 0.388173, 1.0 ],
+					"fontsize" : [ 11.0 ],
+					"accentcolor" : [ 0.741176, 0.356863, 0.047059, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -729,7 +729,6 @@
 , 			{
 				"name" : "message",
 				"default" : 				{
-					"fontsize" : [ 12.0 ],
 					"fontname" : [ "Palatino" ],
 					"bgfillcolor" : 					{
 						"type" : "gradient",
@@ -740,7 +739,8 @@
 						"proportion" : 0.39,
 						"autogradient" : 0
 					}
-
+,
+					"fontsize" : [ 12.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -897,9 +897,9 @@
 , 			{
 				"name" : "object",
 				"default" : 				{
+					"fontname" : [ "Palatino" ],
 					"fontsize" : [ 12.0 ],
-					"accentcolor" : [ 0.454959, 0.684788, 0.824976, 1.0 ],
-					"fontname" : [ "Palatino" ]
+					"accentcolor" : [ 0.454959, 0.684788, 0.824976, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
@@ -918,8 +918,8 @@
 , 			{
 				"name" : "sliderGold-1",
 				"default" : 				{
-					"accentcolor" : [ 0.764706, 0.592157, 0.101961, 1.0 ],
-					"color" : [ 0.907107, 0.934609, 0.842715, 1.0 ]
+					"color" : [ 0.907107, 0.934609, 0.842715, 1.0 ],
+					"accentcolor" : [ 0.764706, 0.592157, 0.101961, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
