@@ -1,6 +1,6 @@
 ////////////Kelley Sheehan/////////
 // handles scripting msg via toggle
-var arrayComments = ["com1", "com2", "com3", "com4", "com5", "com6", "com7", "com8", "com9", "com11"];
+var arrayComments = ["com1", "com2", "com3", "com4", "com5", "com6", "com7", "com8", "com9", "com11", "com12"];
 
 
 // individual scripting functions to be called	
